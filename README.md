@@ -3,7 +3,7 @@
 A production-style movie recommendation system built using Transformer architecture, hybrid filtering, FastAPI, and Streamlit.
 
 This project predicts the next movies a user may like based on their watched movie sequence using a Transformer-based sequential recommender system inspired by modern recommendation architectures used in companies like Netflix, YouTube, and Amazon.
-
+live link : https://netflix-transformer-recommender-rsjgta5q2bvzgaqfappzvwf.streamlit.app/
 ---
 
 # 🚀 Features

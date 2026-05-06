@@ -1,0 +1,14 @@
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+lightgbm
+fastapi
+uvicorn
+pydantic
+python-dotenv
+tqdm
+requests
